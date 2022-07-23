@@ -27,7 +27,7 @@
 <a href="https://www.youtube.com/c/spectromation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spectromation" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ajit_9903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajit_9903" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chaturvediajit545/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chaturvediajit545" height="30" width="40" /></a>
- <a href="https://codeforces.com/profile/ajit1499" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="ajit_9903" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/ajit1499" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="ajit1499" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
