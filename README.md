@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AJITKUMAR130012" alt="AJITKUMAR130012" /></a> </p>
 
-- 🔭 I’m currently working on [Semantic Segmentation)
+- 🔭 I’m currently working on [Ai-traffic system - Computer Vision]
 
 - 🌱 I’m currently learning **Machine Learning & Computer Vision**
 
